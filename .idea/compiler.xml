@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="HandyBuy-Admin-Controller" />
+        <module name="HandyBuy-Admin-Site" />
+        <module name="HandyBuy-Admin-Web" />
+        <module name="HandyBuy-Service" />
+        <module name="HandyBuy-Site" />
+        <module name="HandyBuy-Site-Controller" />
+        <module name="HandyBuy-Site-Web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="HandyBuy" target="1.5" />
+      <module name="HandyBuy-Admin" target="1.5" />
+      <module name="HandyBuy-Admin-Controller" target="1.5" />
+      <module name="HandyBuy-Admin-Site" target="1.5" />
+      <module name="HandyBuy-Admin-Web" target="1.5" />
+      <module name="HandyBuy-Service" target="1.5" />
+      <module name="HandyBuy-Site" target="1.5" />
+      <module name="HandyBuy-Site-Controller" target="1.5" />
+      <module name="HandyBuy-Site-Web" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

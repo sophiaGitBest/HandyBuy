@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HandyBuy.iml" filepath="$PROJECT_DIR$/HandyBuy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Admin/HandyBuy-Admin.iml" filepath="$PROJECT_DIR$/Admin/HandyBuy-Admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Admin/Controller/HandyBuy-Admin-Controller.iml" filepath="$PROJECT_DIR$/Admin/Controller/HandyBuy-Admin-Controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Site/Web/HandyBuy-Admin-Site.iml" filepath="$PROJECT_DIR$/Site/Web/HandyBuy-Admin-Site.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Admin/Web/HandyBuy-Admin-Web.iml" filepath="$PROJECT_DIR$/Admin/Web/HandyBuy-Admin-Web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Service/HandyBuy-Service.iml" filepath="$PROJECT_DIR$/Service/HandyBuy-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Site/HandyBuy-Site.iml" filepath="$PROJECT_DIR$/Site/HandyBuy-Site.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Site/Controller/HandyBuy-Site-Controller.iml" filepath="$PROJECT_DIR$/Site/Controller/HandyBuy-Site-Controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Site/Web/HandyBuy-Site-Web.iml" filepath="$PROJECT_DIR$/Site/Web/HandyBuy-Site-Web.iml" />
+    </modules>
+  </component>
+</project>

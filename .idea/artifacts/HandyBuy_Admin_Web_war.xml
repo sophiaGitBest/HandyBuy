@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="HandyBuy-Admin-Web:war">
+    <output-path>$PROJECT_DIR$/Admin/Web/target</output-path>
+    <root id="archive" name="HandyBuy-Admin-Web-1.0.0.war">
+      <element id="artifact" artifact-name="HandyBuy-Admin-Web:war exploded" />
+    </root>
+  </artifact>
+</component>
